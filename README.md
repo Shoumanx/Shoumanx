@@ -65,7 +65,7 @@ I’m currently learning Mobile Development
     <img src="https://github-profile-trophy.vercel.app/?username=Shoumanx&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 </div>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Shoumanx&show_icons=true alt=rahuldkjain /> </p>
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Shoumanx" alt="visitors"></p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Shoumanx.visitor-badge
 
 
 
